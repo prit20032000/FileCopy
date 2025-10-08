@@ -5,7 +5,7 @@
     /// </summary>
     public class Constants
     {
-        #region Constants
+        #region Constants1
 
         #region Errors
 
@@ -246,4 +246,5 @@
 
         #endregion
     }
+
 }
