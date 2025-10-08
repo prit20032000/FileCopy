@@ -11,7 +11,7 @@ namespace Acty.Skillup.FileCopy
     /// </summary>
     public partial class FileCopy : Form
     {
-        #region Member Variables
+        #region Member Variablesasd
 
         /// <summary>
         /// Thread object
@@ -414,4 +414,5 @@ namespace Acty.Skillup.FileCopy
         }
     }
     #endregion
+
 }
