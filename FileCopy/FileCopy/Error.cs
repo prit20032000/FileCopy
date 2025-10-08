@@ -7,7 +7,7 @@ namespace Acty.Skillup.FileCopy
     /// <summary>
     /// ErrorCode enums
     /// </summary>
-    public enum ErrorCode
+    public enum ErrorCode1
     {
         Success,
         ArgumentOutOfRange,
@@ -63,3 +63,4 @@ namespace Acty.Skillup.FileCopy
         }
     }
 }
+
