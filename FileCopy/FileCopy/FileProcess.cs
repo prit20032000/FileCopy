@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Acty.Skillup.FileCopy
 {
-    #region Delegates
+    #region Delegatesasd
     /// <summary>
     /// Progress changes delegate
     /// </summary>
@@ -216,4 +216,5 @@ namespace Acty.Skillup.FileCopy
 
         #endregion
     }
+
 }
